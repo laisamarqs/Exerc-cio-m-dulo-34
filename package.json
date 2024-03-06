@@ -1,0 +1,1 @@
+{ "scripts": { "cypress": "cypress" }, "devDependencies": { "cypress": "^13.6.4" } }
